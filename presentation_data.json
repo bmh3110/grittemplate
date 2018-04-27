@@ -1,0 +1,44 @@
+{
+    "name": "Brenner Haverlock",
+    "netlify_subdomain": "https://vigilant-mayer-6a92ee.netlify.com/",
+    "optional_dns": "www.brennerhaverlock.com",
+    "blog_post_1":{
+        "title": "AI/ML: Blessing in disguise",
+        "url": "https://medium.com/@brenner.haverlock/ai-ml-a-blessing-in-disguise-40322579197c",
+        "keywords": ["AI","Machine Learning","Python"] },
+    "blog_post_2": {
+        "title": "Deploying your website with github(bonus: linking domain name",
+        "url": "https://medium.com/@brenner.haverlock/deploying-your-website-with-github-bonus-linking-domain-name-537d7706f1a0",
+        "keywords": ["website","AI","github"]
+    },
+    "blog_post_3": {
+        "title": "Principal Component Analysis",
+        "url": "https://medium.com/@brenner.haverlock/principal-component-analysis-4dc398eea153",
+        "keywords": ["PCA","AI","Python"]
+    },
+    "my_linkedin": ["https://www.linkedin.com/in/brenner-haverlock-101010/"],
+    "latex":{ "\documentclass{article}
+              \usepackage{amsmath}
+              \begin{document}
+              \[
+               \begin{bmatrix}
+                      9 & 9  \\
+                      6 & 10 \\
+                      5 & 7
+               \end{bmatrix}
+                =
+                \begin{bmatrix}
+                      1 & 0 & 1  \\
+                      0 & 1 & 1 \\
+                      0 & 0 & 1
+                      \end{bmatrix}
+                       *
+                \begin{bmatrix}
+                      4 & 2  \\
+                      1 & 3 \\
+                      5 & 7
+                \end{bmatrix}
+              \]
+              \end{document}"
+              }
+              }
